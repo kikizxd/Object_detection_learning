@@ -1,0 +1,2 @@
+# Object_detection_learning
+目标检测的一些基础知识包括常用数据集VOC、COCO以及RCNN、Fast_RCNN、Faster_RCNN、YOLO、SSD算法的介绍
